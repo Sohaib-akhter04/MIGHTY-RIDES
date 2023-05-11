@@ -1,0 +1,29 @@
+------------------------------------Project Name---------------------------------------------
+
+MightyRides - Car Trading Platform
+
+----------------------------------------TEAM-------------------------------------------------
+
+20K-0209 - Syed Muhammad Bilal	(Leader)
+20K-0292 - Muhammad Sohaib Akhter
+20K-0151 - Syed Nofel Talha
+20K-0300 - Abdul Wasay
+
+---------------------------------------Section-----------------------------------------------
+
+BCS - 6C
+
+---------------------------------------Course------------------------------------------------
+
+Software Engineering - CS3009
+
+
+
+
+
+Resources Folder conatins:
+
+-SRS
+-Project Report (Test Cases, Gantt chart, UML and other Diagrams, etc)
+-Presentation
+-some additional resources such as papyrus diagrams
